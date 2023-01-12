@@ -1,4 +1,4 @@
-package com.example.petclinicmy.model;
+package com.sawicki.mypetclinic.model;
 
 public class Person {
 
