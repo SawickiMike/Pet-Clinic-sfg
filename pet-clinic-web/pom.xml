@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.sawicki.mypetclinic</groupId>
         <artifactId>pet-clinic-my</artifactId>
-        <version>1.1</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
 
     <groupId>com.example.mypetclinic</groupId>
