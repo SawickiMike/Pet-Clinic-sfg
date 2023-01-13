@@ -45,10 +45,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <scm>
-        <developerConnection>
-            scm:git:git@github.com:SawickiMike/sfg-pet-clinic.git
-        </developerConnection>
-      <tag>1.1-SNAPSHOT</tag>
-  </scm>
 </project>

@@ -45,11 +45,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<scm>
-		<developerConnection>
-			scm:git:git@github.com:SawickiMike/sfg-pet-clinic.git
-		</developerConnection>
-	  <tag>1.1-SNAPSHOT</tag>
-    </scm>
-
 </project>
