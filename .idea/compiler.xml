@@ -17,7 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Pet-Clinic-sfg" options="-parameters" />
       <module name="pet-clinic-data" options="-parameters" />
-      <module name="pet-clinic-my" options="" />
+      <module name="pet-clinic-my" options="-parameters" />
       <module name="pet-clinic-web" options="-parameters" />
     </option>
   </component>
